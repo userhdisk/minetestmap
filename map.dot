@@ -1,0 +1,161 @@
+//neato -n  -Tpng map.dot -o
+graph map { 
+graph [scale=0.25]
+node [margin=0/*.5*/ shape=point width=0.1 fontcolor=black /*fontsize=82 fixedsize=true*/]
+DOEVIL [xlabel="Den_of_Evil" pos="-2161,-1231"];
+SFIELD [xlabel="StonyField" pos="-2002,-2565"];
+GSTAR [xlabel="Gangstarsspawnpoint\n(Oldspawnpoint39)\n-1561,17,-1582" pos="-1561,-1582"];
+//GSTAR
+MG [xlabel="MountGigantus\n(-1975,98,-925)" pos="-1975,-925"];
+//MG
+OSP2 [xlabel="Oldspawnpoint2\n(-1934,7,-921)" pos="-1934,-921"];
+RIVER [xlabel="Riverside\n(-3485,17,-2035)" pos="-3485,-2035"];
+FARL [xlabel="Farlands\n(-4308,29,1313)" pos="-4308,1313"];
+OSP31 [xlabel="Oldspawnpoint31\n(-3596,9,-711)" pos="-3596,-711"];
+OSP35 [xlabel="Oldspawnpoint35\n(-1715,45,-2700)" pos="-1715,-2700"];
+CP [xlabel="Centralplatform\n(194,133,-171)" pos="194,-171"];
+  //CP
+MT [xlabel="MountainTop\n(256,191,-191)" pos="256,-191"];
+FF [xlabel="ForestFloor\n(256,12,-113)" pos="256,-113"];
+OSP1 [xlabel="OldSpawnpoint1\n(187,78,-162)" pos="187,-162"];
+SNOW [xlabel="Snow\n(-8,41,599)" pos="-8,599"];
+LAHOUSE [xlabel="lisacvuk's_abandoned_house\n(238,36,-159)" pos="238,-159"];
+OASIS [xlabel="Oasis\n(3000,29,1202)" pos="3000,1202"];
+VILL [xlabel="Village\n(295,11,-238)" pos="295,-238"];
+GBSVILL [xlabel="GlpsandBigSharksvillage\n(Oldspawnpoint30)\n(301,60,394)" pos="301,394"];
+TB214 [xlabel="Thatbeas214sspawnpoint\n(Spawnpoint38)\n(-866,17,601)" pos="-866,601"];
+SP40 [xlabel="Spawnpoint40\n(256,21,1505)" pos="256,1505"];
+    //OASIS
+OSP4 [xlabel="Oldspawnpoint4\n(3084,30,1268)" pos="3084,1268"];
+OSP8 [xlabel="Oldspawnpoint8\n(2428,3,1655)" pos="2428,1655"];
+OSP9 [xlabel="Oldspawnpoint9\n(3086,16,443)" pos="3086,443"];
+SKYI [xlabel="SkyIsland\n(3007,2130,1388)" pos="3007,1388"];
+SKYI2 [xlabel="SkyIsland2\n(3096,431,1285)" pos="3096,1285"];
+OSP10 [xlabel="Oldspawnpoint10\n(3681,17,1302)" pos="3681,1302"];
+OSP11 [xlabel="Oldspawnpoint11\n(3133,100,3447)" pos="3133,3447"];
+BP [xlabel="BeastsPlatform\n(3197,2,1288)" pos="3197,1288"];
+OSP25 [xlabel="Oldspawnpoint25\n(3916,8,454)" pos="3916,454"];
+SKYI6 [xlabel="SkyIsland6\n(2683,116,1346)" pos="2683,1346"];
+OSP29 [xlabel="Oldspawnpoint29\n(3454,21,1724)" pos="3454,1724"];
+KTOWN [xlabel="Kalemstown(Spawnpoint(34))\n(1781,8,2789)" pos="1781,2789"];
+  //RIVER
+OSP3 [xlabel="Oldspawnpoint3\n(-3552,15,-2060)" pos="-3552,-2060"];
+FLATL [xlabel="Flatland\nDON'T MOVE!\n(-9438,47,-7485)" pos="-9438,-7485"];
+OSP33 [xlabel="Oldspawnpoint33\n(-3229,66,-1998)" pos="-3229,-1998"];
+    //FLATL
+OSP5 [xlabel="Oldspawnpoint5\n(-9537,18,-7596)" pos="-9537,-7596"];
+OSP6 [xlabel="Oldspawnpoint6\n(-11363,7,-7046)" pos="-11363,-7046"];
+OSP7 [xlabel="Oldspawnpoint7\n(-9465,3,-7143)" pos="-9465,-7143"];
+STICHVILL [xlabel="Stitch3svillage\n(Oldspawnpoint32)\n(-9352,4,-7443)" pos="-9352,-7443"];
+        //STICHVILL
+COD [xlabel="CaveofDoom\n(-9353,-17040,-7463)" pos="-9353,-7463"];
+    //OSP33
+PORT1 [xlabel="Port1\n(-3125,-23,-1868)" pos="-3125,-1868"];
+PORT2 [xlabel="Port2\n(-3443,37,-1801)" pos="-3443,-1801"];
+  //FARL
+OSP12 [xlabel="0ldspawnpoint12\n(-4811,51,1150)" pos="-4811,1150"];
+OSP13 [xlabel="Oldspawnpoint13\n(-4305,12,1821)" pos="-4305,1821"];
+OSP14 [xlabel="Oldspawnpoint14\n(-2562,4,-395)" pos="-2562,-395"];
+SKYI4 [xlabel="SkyIsland4\n(-2675,111,-315)" pos="-2675,-315"];
+OSP15 [xlabel="Oldspawnpoint15\n(-4446,15,-1279)" pos="-4446,-1279"];
+OSP16 [xlabel="Oldspawnpoint16\n(-3331,4,1526)" pos="-3331,1526"];
+FARS  [xlabel="Farstone\n(-6710,6,3396)" pos="-6710,3396"];
+SAM10 [xlabel="sam10sspawnpoint\n(Oldspawnpoint28)\n(-4793,46,1412)" pos="-4793,1412"];
+    //FARS
+FARSM [xlabel="FarstoneMegamine\n(-6690,-1100,3387)" pos="-6690,3387"];
+OSP17 [xlabel="OldSpawnpoint17\n(-7992,3,2798)" pos="-7992,2798"];
+OSP18 [xlabel="Oldspawnpoint18\n(-5868,2,4834)" pos="-5868,4834"];
+SKYI5 [xlabel="SkyIsland5\n(-6018,157,4656)" pos="-6018,4656"];
+OSP19 [xlabel="Spawnpoint\n(Oldspawnpoint19\n(-5978,35,2673)" pos="-5978,2673"];
+OSP20 [xlabel="Oldspawnpoint20\n(-7071,1,3638)" pos="-7071,3638"];
+OSP21 [xlabel="Oldspawnpoint21\n(-6681,13,2451)" pos="-6681,2451"];
+OSP22 [xlabel="Oldspawnpoint22\n(-6546,12,2203)" pos="-6546,2203"];
+OSP23 [xlabel="0ldspawnpoint23\n(-6111,10,2119)" pos="-6111,2119"];
+OSP24 [xlabel="Oldspawnpoint24\n(-5774,10,2090)" pos="-5774,2090"];
+OSP26 [xlabel="Oldspawnpoint26\n(-5667,8,2373)" pos="-5667,2373"];
+MVKVILL [xlabel="Mvksvillage\n(Oldspawnpoint27)\n(-5854,10,2910)" pos="-5854,2910"];
+SAM12 [xlabel="sam12svillage\n(-6594,36,1648)" pos="-6594,1648"];
+IISU [xlabel="iisuswhateverthisis\n(-4919,215,2415)" pos="-4919,2415"];
+      //OSP19
+ASP [xlabel="Alternativespawnpoint\n(-5964,28,2562)" pos="-5964,2562"];
+//OSP21
+FSPORT1 [xlabel="Port1(FS)\n(-6729,50,2360)" pos="-6729,2360"];
+
+DOEVIL -- GSTAR
+DOEVIL -- SFIELD
+
+GSTAR -- MG
+//MG -- GSTAR
+MG -- CP
+MG -- OSP2
+MG -- RIVER
+MG -- FARL
+MG -- OSP31
+MG -- OSP35
+//CP -- MG
+CP -- MT
+CP -- FF
+CP -- OSP1
+CP -- SNOW
+CP -- LAHOUSE
+CP -- OASIS
+CP -- VILL
+CP -- GBSVILL
+CP -- TB214
+CP -- SP40
+//OASIS -- CP
+OASIS -- OSP4
+OASIS -- OSP8
+OASIS -- OSP9
+OASIS -- SKYI
+OASIS -- SKYI2
+OASIS -- OSP10
+OASIS -- OSP11
+OASIS -- BP
+OASIS -- OSP25
+OASIS -- SKYI6
+OASIS -- OSP29
+OASIS -- KTOWN
+//RIVER -- MG
+RIVER -- OSP3
+RIVER -- FLATL
+RIVER -- OSP33
+//FLATL -- RIVER
+FLATL -- OSP5
+FLATL -- OSP6
+FLATL -- OSP7
+FLATL -- STICHVILL
+//FLATL -- STICHVILL
+STICHVILL--COD
+//OSP33 -- RIVER
+OSP33 -- PORT1
+OSP33 -- PORT2
+//FARL --MG 
+FARL -- OSP12
+FARL -- OSP13
+FARL -- OSP14
+FARL -- SKYI4
+FARL -- OSP15
+FARL -- OSP16
+FARL -- FARS
+FARL -- SAM10
+
+FARS -- FARSM
+FARS -- OSP17
+FARS -- OSP18
+FARS -- SKYI5
+FARS -- OSP19
+FARS -- OSP20
+FARS -- OSP21
+FARS -- OSP22
+FARS -- OSP23
+FARS -- OSP24
+FARS -- OSP26
+FARS -- MVKVILL
+FARS -- SAM12
+FARS -- IISU
+//OSP19 -- FARS
+OSP19 -- ASP
+OSP21 -- FSPORT1
+
+}
