@@ -1,7 +1,7 @@
 //neato -n  -Tpng map.dot -o
 graph map { 
 graph [scale=0.25]
-node [margin=0/*.5*/ shape=point width=0.1 fontcolor=black /*fontsize=82 fixedsize=true*/]
+node [margin=0/*.5*/ shape=point width=0.1 fontcolor=black fontsize=22 /*fixedsize=true*/]
 DOEVIL [xlabel="Den_of_Evil" pos="-2161,-1231"];
 SFIELD [xlabel="StonyField" pos="-2002,-2565"];
 GSTAR [xlabel="Gangstarsspawnpoint\n(Oldspawnpoint39)\n-1561,17,-1582" pos="-1561,-1582"];
