@@ -85,7 +85,7 @@ OSP22PORT1 [xlabel="Port1(FS-OSP22)\n(-6666,15,2133)" pos="-6666,2133"];
 MVKS [xlabel="Mvksskyisland\n(-5969,2204,3058)" pos="-5969,3058"];
   //OSP35
 P1OSP35 [xlabel="OSP35Port1\n(-2002,20,-2565)" pos="-2002,-2565"];
-P2OSP35 [xlabel="Port2\n(-1747,34,-2565)" pos="1747,-2565"];
+P2OSP35 [xlabel="Port2\n(-1747,34,-2565)" pos="-1747,-2565"];
 OSP36 [xlabel="OldSpawnpoint36\n(163,13,-3367)" pos="163,-3367"];
 BB8OSP37 [xlabel="BB8(Oldspawnpoint37)\n(-821,30,-1684)" pos="-821,-1684"];
 
