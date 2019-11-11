@@ -78,8 +78,12 @@ SAM12 [xlabel="sam12svillage\n(-6594,36,1648)" pos="-6594,1648"];
 IISU [xlabel="iisuswhateverthisis\n(-4919,215,2415)" pos="-4919,2415"];
       //OSP19
 ASP [xlabel="Alternativespawnpoint\n(-5964,28,2562)" pos="-5964,2562"];
-//OSP21
-FSPORT1 [xlabel="Port1(FS)\n(-6729,50,2360)" pos="-6729,2360"];
+      //OSP21
+FSPORT1 [xlabel="Port1(FS-OSP21)\n(-6729,50,2360)" pos="-6729,2360"];
+      //OSP22
+OSP22PORT1 [xlabel="Port1(FS-OSP22)\n(-6666,15,2133)" pos="-6666,2133"];
+MVKS [xlabel="Mvksskyisland\n(-5969,2204,3058)" pos="-5969,3058"];
+
 
 DOEVIL -- GSTAR
 DOEVIL -- SFIELD
@@ -157,5 +161,7 @@ FARS -- IISU
 //OSP19 -- FARS
 OSP19 -- ASP
 OSP21 -- FSPORT1
+OSP22 -- OSP22PORT1
+MVKVILL -- MVKS
 
 }
